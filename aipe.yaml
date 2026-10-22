@@ -44,6 +44,9 @@ documentation:
   - docs/architecture.md
   - LICENSE
   - THIRD_PARTY_NOTICES.md
+  - docs/auto-planning-results.md
+  - docs/layout-rules.md
+  - docs/symbol-library.md
 extensions:
   aipe.sketch:
     package: aipe-sketcher 0.2.0
